@@ -1,0 +1,50 @@
+body {
+    background-color: #FF69B4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}  
+
+a {
+    text-decoration: none;
+}
+
+.box {
+    font-size: 20px;
+    color: white;
+    height: 250px;
+    border-radius: 10px;
+    background-color: #FF69B4;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    border:none!important;
+    background-color: white!important;
+    border: 0.5px solid #fff;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    font-size: 17px;
+    text-align: center;
+    width: 50px;
+    cursor: pointer;
+}
+
+ .btn-nao {
+    border: 0.5px solid #fff;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    font-size: 17px;
+    text-align: center;
+    width: 50px;
+    cursor: pointer;
+}  
+
+p {
+    font-size: 40px;
+    font-family: 'Poppins';
+}
